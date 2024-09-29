@@ -138,7 +138,7 @@ const styles = StyleSheet.create({
 // import { useAccount } from "../ContextAPI/AccountContext"; // Import hook để sử dụng context tài khoản
 // import { useState } from "react"; // Import hook useState để quản lý trạng thái
 // import Toast from "react-native-toast-message"; // Import thư viện để hiển thị thông báo
-
+    
 // // Định nghĩa cấu hình cho thông báo lỗi
 // const toastConfig = {
 //     error: ({ text1, text2, props }) => (
